@@ -53,8 +53,6 @@ I’m passionate about building **scalable platforms, automation pipelines, and 
 ---
 
 ## 📊 GitHub Stats  
-
-![Ahmed’s GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammed-moazzam&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-moazzam&layout=compact&theme=radical)  
 
 ---
